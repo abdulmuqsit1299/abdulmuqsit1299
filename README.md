@@ -1,8 +1,10 @@
-# Hi there, I'm Abdul Muqsit 👋 
+# Abdul Muqsit 👋 
 ### Backend Developer | .NET Core Enthusiast | Aspiring Agentic AI Engineer
 
+### 📩 Contact Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulmuqsit/)
 
+[![Outlook](https://img.shields.io/badge/Outlook-abdulmuqsit0612%40outlook.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:abdulmuqsit0612@outlook.com)
 ---
 
 ### 🚀 About Me:
@@ -31,11 +33,6 @@
 ### 📈 GitHub Stats:
 ![Abdul's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdulmuqsit1299&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulmuqsit1299&layout=compact&theme=dark)
-
----
-
-### 📩 Contact Me:
-[![Outlook](https://img.shields.io/badge/Outlook-abdulmuqsit0612%40outlook.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:abdulmuqsit0612@outlook.com)
 
 ---
 
