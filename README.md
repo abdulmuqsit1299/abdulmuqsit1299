@@ -1,23 +1,24 @@
 # Hi there, I'm Abdul Muqsit 👋 
-### Backend Developer | .NET Core & Java Spring Boot | Aspiring Agentic AI Engineer
+### Backend Developer | .NET Core Enthusiast | Aspiring Agentic AI Engineer
 
-I am a passionate Software Engineer with a strong focus on building scalable backend systems and high-performance APIs. Currently, I am diving deep into the world of **Agentic AI** and **Generative AI** at PIAIC.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulmuqsit/)
 
 ---
 
 ### 🚀 About Me:
-- 🔭 I’m currently working as a **Backend Developer** at App in Snap, building RESTful APIs with C# and ASP.NET Core.
-- ⚙️ Skilled in **Clean Architecture**, SQL Server, and legacy system integration (SOAP to REST).
-- 🧠 Learning **Agentic AI Engineering** to build the next generation of autonomous AI agents.
-- 🌍 Based in Pakistan.
-- ⚡ Fun fact: I have a background in **Electronics Technology**, which gives me a unique perspective on IoT and hardware-software integration.
+- 🔭 **Currently Working:** Backend Developer at **App in Snap**, building high-performance RESTful APIs with **C#** and **ASP.NET Core MVC**.
+- 🏗️ **Architecture:** Skilled in **Clean Architecture**, ensuring code is maintainable, reusable, and production-ready.
+- 🗄️ **Databases:** Experienced in **SQL Server (SSMS)** and **MySQL** for secure data design and optimization.
+- 🧠 **Learning:** **Agentic AI Engineering** at PIAIC to build autonomous AI solutions.
+- 🌍 **Based in:** Pakistan.
+- 💬 **Always exploring:** Cutting-edge tech and building innovative web applications.
 
 ---
 
 ### 🛠️ Tech Stack:
 
 **Backend & Databases**
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 **Frontend & CMS**
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Elementor](https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=Elementor&logoColor=white)
@@ -27,19 +28,19 @@ I am a passionate Software Engineer with a strong focus on building scalable bac
 
 ---
 
-### 📊 GitHub Stats:
-![Abdul's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdulmuqsit1299&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulmuqsit1299&layout=compact&theme=radical)
+### 📈 GitHub Stats:
+![Abdul's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdulmuqsit1299&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulmuqsit1299&layout=compact&theme=dark)
 
 ---
 
-### 🌐 Socials & Contact:
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulmuqsit/)
-[![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:abdulmuqsit0612@outlook.com)
+### 📩 Contact Me:
+[![Outlook](https://img.shields.io/badge/Outlook-abdulmuqsit0612%40outlook.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:abdulmuqsit0612@outlook.com)
 
 ---
 
-### 🏆 Certifications:
-- **Generative AI** - Google Cloud
-- **AI for Social Impact** - ADBI
+### 📜 Certifications:
 - **Certified Agentic AI Engineering** - PIAIC (Ongoing)
+- **Generative AI** - Google Cloud
+- **Deep Learning Essentials** - AWFERA Innovation
+- **Artificial Intelligence for Social Impact** - ADBI
