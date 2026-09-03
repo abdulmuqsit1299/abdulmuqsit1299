@@ -41,7 +41,7 @@
 ---
 
 ### Certifications
-- **Certified Agentic AI Engineering** — PIAIC (Ongoing)
+- **Certified Agentic AI Engineering** — PIAIC (2027)
 - **Generative AI** — Google Cloud
 - **Deep Learning Essentials** — AWFERA Innovation
 - **Artificial Intelligence for Social Impact** — ADBI
@@ -49,5 +49,5 @@
 ---
 
 ### 📈 GitHub Analytics
-![Abdul's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdulmuqsit1299&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulmuqsit1299&layout=compact&theme=transparent)
+![Abdul's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdulmuqsit1299&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulmuqsit1299&layout=compact&theme=dark)
