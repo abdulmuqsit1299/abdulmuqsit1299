@@ -16,16 +16,6 @@
 - 📍 **Location:** Islamabad, Pakistan.
 
 ---
-<img width="4032" height="2134" alt="image" src="https://github.com/user-attachments/assets/a9f9b0da-8f43-4ee6-b31c-73d161d576bd" />
-
-<img width="2539" height="2268" alt="image" src="https://github.com/user-attachments/assets/968a540a-0bb9-4ebd-ba4e-baaea0db6af1" />
-
-<img width="1856" height="2268" alt="image" src="https://github.com/user-attachments/assets/d803a86a-5caf-40d4-9be7-f294f50e9653" />
-
-
-<img width="1319" height="2268" alt="image" src="https://github.com/user-attachments/assets/fd816203-a53a-4d19-a130-bc8644ee8f1e" />
-
-
 
 ###  Tech Stack
 
@@ -57,10 +47,6 @@
 - **Artificial Intelligence for Social Impact** — ADBI
 
 ---
-
-<img width="2012" height="2268" alt="image" src="https://github.com/user-attachments/assets/f46cbc03-26d6-42f5-8e08-a0ddbecf73fd" />
-
-
 ### 📈 GitHub Analytics
 ![Abdul's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdulmuqsit1299&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdulmuqsit1299&layout=compact&theme=dark)
