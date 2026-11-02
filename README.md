@@ -50,6 +50,6 @@
 ### 📈 GitHub Analytics
 
 <p align="center">
-  <img src="https://abdulmuqsit1299.vercel.app/api?username=abdulmuqsit1299&show_icons=true&theme=dark" alt="Abdul's GitHub Stats" width="48%" />
-  <img src="https://abdulmuqsit1299.vercel.app/api/top-langs?username=abdulmuqsit1299&layout=compact&theme=dark" alt="Top Languages" width="45%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=abdulmuqsit1299&show_icons=true&theme=dark" alt="Abdul's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=abdulmuqsit1299&layout=compact&theme=dark" alt="Top Languages" width="45%" />
 </p>
