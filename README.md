@@ -66,14 +66,10 @@ I enjoy building production-ready AI solutions that combine enterprise architect
 ## 📊 GitHub Stats & Activity
 
 <p align="center">
-  <!-- 1. GitHub Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=abdulmuqsit1299&show_icons=true&theme=radial&hide_border=true" alt="Abdul Muqsit's GitHub Stats" width="48%" />
-
-  <!-- 2. GitHub Streak Stats Card -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdulmuqsit1299&theme=radial&hide_border=true" alt="Abdul Muqsit's GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=abdulmuqsit1299&show_icons=true&theme=radial&hide_border=true" alt="Abdul Muqsit GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdulmuqsit1299&theme=radial&hide_border=true" alt="Abdul Muqsit Streak" width="48%" />
 </p>
 
 <p align="center">
-  <!-- 3. GitHub Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdulmuqsit1299&theme=github-dark&hide_border=true" alt="Abdul Muqsit's Activity Graph" width="98%" />
+  <img src="https://ashutosh00710.github.io/github-readme-activity-graph/graph?username=abdulmuqsit1299&theme=github-dark" alt="Abdul Muqsit Activity Graph" width="98%" />
 </p>
